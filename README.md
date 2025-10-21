@@ -20,15 +20,24 @@ Just type what you're looking for, and the model will find the most relevant **i
 
 How to use
 1.Put Images in gallery/
+
 2.Run the code
+
 3.It will prompt:What are you looking for?
+
 4.Type something like:A photo of a cat
+
 5.It will show you the best match!
 
+
 📈 Performance Notes
+
 Works well with natural language prompts
+
 Works offline once model is downloaded
+
 Supports all major image formats (.jpg, .png, .jpeg)
+
 
 📚 Credits
 1.CLIP Model by OpenAI
