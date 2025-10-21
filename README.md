@@ -19,6 +19,7 @@ Just type what you're looking for, and the model will find the most relevant **i
 4. The closest match is displayed
 
 How to use
+
 1.Put Images in gallery/
 
 2.Run the code
@@ -40,6 +41,9 @@ Supports all major image formats (.jpg, .png, .jpeg)
 
 
 📚 Credits
+
 1.CLIP Model by OpenAI
+
 2.Transformers Library by Hugging Face
+
 
